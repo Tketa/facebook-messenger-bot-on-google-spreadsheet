@@ -3,7 +3,8 @@ Facebook Messenger Botを、Google Spreadsheet(とGAS)だけで構築するた�
 
 ## Setup
 この記事を参照してください。
-<!-- あとで書く -->
+
+[Googleスプレッドシートだけで作るFB messenger bot](http://qiita.com/KeitaMoromizato/items/79c030f6c1bf2f270354)
 
 ## Usage
 `sample.js`をGoogle Spreadsheetのスクリプトエディタに貼り付けます。下記の部分だけ書きかえます。
